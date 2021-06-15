@@ -1,0 +1,48 @@
+
+body{
+    background-color:whitesmoke;
+    border-style: dotted;;
+    border-color: cyan;
+    border-width: 100;
+    padding: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.DDD{
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+h1{
+    color:green;
+}
+.links{
+    display:flex;
+    justify-content: flex-end;
+    
+}
+h1{
+    text-align: center;
+}
+.head:hover a{
+    color: blue;
+} 
+a:link{
+    color:green;
+}
+a:visited{
+    color:green;
+}
+.Game1:hover a{
+    opacity: 0.5;
+}
+.Game2:hover a{
+    opacity: 0.5;
+}
+.Game3:hover a{
+    opacity: 0.5;
+}
+
+
